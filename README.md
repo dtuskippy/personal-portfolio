@@ -1,6 +1,6 @@
 # Modify this portfolio
 
-Make it your own! 
+Alan Chelko Personal Portfolio
 
 https://chelko.netlify.app/
 
